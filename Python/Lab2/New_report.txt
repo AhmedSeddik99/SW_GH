@@ -1,0 +1,20 @@
+49 -   library setup time                                     -0.03       3.62
+55 -   slack (MET)                                                        1.28
+91 -   library setup time                                     -0.03       3.62
+97 -   slack (MET)                                                        1.28
+133 -   library setup time                                     -0.03       3.62
+139 -   slack (MET)                                                        1.28
+175 -   library setup time                                     -0.03       3.62
+181 -   slack (MET)                                                        1.28
+217 -   library setup time                                     -0.03       3.62
+223 -   slack (MET)                                                        1.28
+259 -   library setup time                                     -0.03       3.62
+265 -   slack (MET)                                                        1.28
+301 -   library setup time                                     -0.03       3.62
+307 -   slack (MET)                                                        1.28
+343 -   library setup time                                     -0.03       3.62
+349 -   slack (MET)                                                        1.28
+385 -   library setup time                                     -0.03       3.62
+391 -   slack (MET)                                                        1.28
+427 -   library setup time                                     -0.03       3.62
+433 -   slack (MET)                                                        1.28

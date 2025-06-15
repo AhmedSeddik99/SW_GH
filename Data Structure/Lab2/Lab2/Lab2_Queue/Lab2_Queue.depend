@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1732771665 source:d:\eng asu\iti\digital design\labs\lab2\lab2_queue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1732771771 d:\eng asu\iti\digital design\labs\lab2\lab2_queue\include\queue.h
+

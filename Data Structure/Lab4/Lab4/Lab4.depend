@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1733633311 source:d:\eng asu\iti\data structure\day4\lab 4\lab4\main.cpp
+	<iostream>
+	"Tree.h"
+
+1733633194 d:\eng asu\iti\data structure\day4\lab 4\lab4\tree.h
+	"Node.h"
+
+1732908184 d:\eng asu\iti\data structure\day4\lab 4\lab4\node.h
+
+1733637113 source:d:\eng\sw_gh\data structure\lab4\lab4\main.cpp
+	<iostream>
+	"Tree.h"
+
+1733636794 d:\eng\sw_gh\data structure\lab4\lab4\tree.h
+	"Node.h"
+
+1732911784 d:\eng\sw_gh\data structure\lab4\lab4\node.h
+

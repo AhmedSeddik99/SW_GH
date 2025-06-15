@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1732617067 source:/home/mina/Documents/CodeBlocks/Day1-DS-LinkedList/main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1732617118 /home/mina/Documents/CodeBlocks/Day1-DS-LinkedList/include/LinkedList.h
+	"Node.h"
+
+1732611168 /home/mina/Documents/CodeBlocks/Day1-DS-LinkedList/include/Node.h
+
+1732638242 source:d:\eng asu\iti\data structure\day1-ds-linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1732638539 d:\eng asu\iti\data structure\day1-ds-linkedlist\include\linkedlist.h
+	"Node.h"
+
+1732619539 d:\eng asu\iti\data structure\day1-ds-linkedlist\include\node.h
+

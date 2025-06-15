@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1729598131 source:d:\eng asu\iti\intro. to c\labs\day 3\lab 3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\CodeBlocks\MinGW\include\MyLibrary.h"
+
+1508750526 e:\codeblocks\mingw\include\mylibrary.h
+	<windows.h>
+
