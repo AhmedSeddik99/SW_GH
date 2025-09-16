@@ -43,7 +43,7 @@ handle cases where the array contains multiple occurrences of the target element
 
 2- Implement function for Binary Serach algorithm on Array.
 
-3- Implement function for BubleSort for doubly linked list. (Swap data)
+3- Implement function for BubbleSort for doubly linked list. (Swap data)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
